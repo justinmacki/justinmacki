@@ -1,6 +1,6 @@
 {
   "name": "gatsby-starter-default",
-  "private": true,
+  "private": false,
   "description": "Portfolio of Justin Macki B. Julhusin",
   "version": "0.1.0",
   "author": "Justin Macki B. Julhusin",
