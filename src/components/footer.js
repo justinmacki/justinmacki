@@ -1,23 +1,21 @@
 import { Link } from "gatsby"
 import React from "react"
 
-const Header = () => (
-  <header>
+const Footer = () => (
+  <footer>
     <div className="container">
       <div className="inner-header">
       <div className="logo">
-        <Link to="/">JUSTIN MACKI</Link>
+        <Link to="/">2021 All rights reserved.</Link>
       </div>
       <div className="navigation">
         <nav>
-          <Link to="/about">About</Link>
-          <Link to="/work">Work</Link>
-          <Link to="/contact">Contact</Link>
+          <Link to="/contact">e-mail: justinmacki@outlook.com</Link>
         </nav>
       </div>
       </div>
     </div>
-  </header>
+  </footer>
 )
 
-export default Header
+export default Footer
