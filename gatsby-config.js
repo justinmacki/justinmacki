@@ -1,8 +1,9 @@
 module.exports = {
+  pathPrefix: "/justinmacki",
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Justin Macki`,
+    description: `This website serves as the portfolio of Justin Macki Julhusin.`,
+    author: `Justin Macki B. Julhusin`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
